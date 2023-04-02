@@ -1,0 +1,4 @@
+baseURL = 'http://www.hoardr.xyz'
+languageCode = 'en-us'
+title = 'Hoardr.xyz'
+theme = 'ananke'
